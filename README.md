@@ -1,7 +1,7 @@
 # Object Oriented Programming w25-26
 
 ## Initial requirements:
-* Slack account on
+* Slack account (Please join: https://join.slack.com/t/w2526-oop/shared_invite/zt-3eowq0xxt-9uwLaY2ANgdT6FOiJKLDpg)
 * GitHub account
 * Gmail account
 * Medium.org account
@@ -12,8 +12,8 @@
 * pass each exam (group and 1-1)
 * personal website with Lovable
 * n8n workflow
-* EDP project on GitHub
-* article about Event Driven Programming on medium.org
+* OOP project on GitHub
+* article about OOP on medium.org
 
 ## Initial skills
 know how to:
@@ -32,3 +32,4 @@ git push origin main
 ```
 git status
 ```
+

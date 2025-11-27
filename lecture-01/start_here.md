@@ -6,11 +6,10 @@
 
 ### Task 1
 * Fork this repository
-* Create a folder `[index_number]-[your_name]` inside students folder
-* inside that folder create `task-01.md`
-* create your (personal) website in lovable.com
+* create a file inside the folder with index number and your name. Example `/0000-piotr/task-01.md`
+* create your (personal) website in base44.com
 * publish it
-* add the link to that website task-01.md
+* add the link to that website to the file you created `task-01.md`
 
 ```
 # My website:
@@ -20,5 +19,3 @@
 * commit the changes
 * make a Pull Request
 
-## Note
-when you see [your_name] it means that you have to replace it with `Piotr` for example
